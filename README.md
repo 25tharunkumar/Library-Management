@@ -30,6 +30,8 @@ Star UML
 ![image](https://github.com/25tharunkumar/Library-Management/assets/123470785/2e9c0253-6b25-442a-a55f-dded91fd6035)
 ### Class Diagram:
 ![image](https://github.com/25tharunkumar/Library-Management/assets/123470785/c5625403-24d9-4735-aeaf-6e5275324bf1)
+### State Chart:
+![image](https://github.com/25tharunkumar/Library-Management/assets/123470785/20629943-6bf9-4feb-b4b1-5b40d0522b01)
 ### Packge Diagram:
 ![image](https://github.com/25tharunkumar/Library-Management/assets/123470785/015e2094-7be4-428a-b699-6783049b7b0d)
 ### Communication Diagram:
