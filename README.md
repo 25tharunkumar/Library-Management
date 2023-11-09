@@ -20,8 +20,7 @@ done.
 #### Cancellation for the Book:
 In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
-Star UML
-### UML Diagrams:
+### Star UML
 ### User case Diagram:
 ![image](https://github.com/25tharunkumar/Library-Management/assets/123470785/2c29046a-cbf8-4a73-9fe2-c168ecfb7634)
 ### Activity Diagram:
